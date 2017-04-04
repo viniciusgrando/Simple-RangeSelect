@@ -1,2 +1,2 @@
-# Simples-RangeSelect
+# Simple-RangeSelect
 Simple Range selector and insert Plan in Inputs
